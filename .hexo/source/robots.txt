@@ -3,3 +3,5 @@
 
 User-agent: *
 Allow: /
+
+Sitemap: http://collect.liam0205.me/sitemap.xml
