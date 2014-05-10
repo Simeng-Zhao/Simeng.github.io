@@ -2,13 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://collect.liam0205.me/about/index.html</loc>
-    <lastmod>2014-05-08T09:06:30.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://collect.liam0205.me/2014/05/10/mojito/</loc>
-    <lastmod>2014-05-09T16:44:19.000Z</lastmod>
+    <loc>http://collect.liam0205.me/2014/03/01/life/</loc>
+    <lastmod>2014-02-28T16:00:00.000Z</lastmod>
   </url>
   
   <url>
@@ -17,8 +12,13 @@
   </url>
   
   <url>
-    <loc>http://collect.liam0205.me/2014/03/01/life/</loc>
-    <lastmod>2014-02-28T16:00:00.000Z</lastmod>
+    <loc>http://collect.liam0205.me/2014/05/10/mojito/</loc>
+    <lastmod>2014-05-09T16:44:19.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://collect.liam0205.me/about/index.html</loc>
+    <lastmod>2014-05-08T09:06:30.000Z</lastmod>
   </url>
   
   <url>

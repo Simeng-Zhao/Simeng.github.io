@@ -1,4 +1,4 @@
-title: 【转载】如何挑导师
+title: 如何挑导师
 date: 2014-05-09 18:08:28
 categories: life
 tags: [How to, graduate, advisor, boss]
