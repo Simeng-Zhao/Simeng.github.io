@@ -4,7 +4,7 @@ categories: life
 tags: [How to, graduate, advisor, boss]
 ---
 
-文章转自人人网，[许铁的日志][sourceurl]。
+> 文章转自[许铁的人人网日志][sourceurl]。
 
 **许铁，巴黎高师硕，以色列理工博，每有科研，教学方面心得，愿与大家分享**
 
